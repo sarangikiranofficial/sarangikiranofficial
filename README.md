@@ -1,46 +1,73 @@
+<div align="center">
+
 # S A R A N G I  K I R A N
 
-`CSE student` · `learning by building` · `figuring things out`
+### `CSE student · learning by building · figuring things out`
 
-<br>
+✦　✎　⌁　◌　✦
 
-> *somewhere between curiosity and "wait... why isn't this working?"*
+*somewhere between curiosity and*
+*"wait... why isn't this working?"*
 
-<br>
+</div>
+
+---
 
 ### currently
 
 ```text
-C        learning the basics
-Python   experimenting
-Web      building things
-AI       exploring
-IoT      making hardware do things
+┌─────────────────────────────────────────────┐
+│                                             │
+│   C          learning the basics            │
+│   Python     experimenting                  │
+│   Web        building little things         │
+│   AI         exploring                      │
+│   IoT        making hardware do things      │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
-
-<br>
 
 ### things I've been making
 
 **01 — Tide**
-A small productivity app.
+A small productivity app built while learning Flutter.
 
 **02 — Doodleo**
-A drawing app I'm building.
+A drawing app — because sometimes you just want to make things.
 
 **03 — ESP32 experiments**
-Sensors · MQTT · tiny pieces of hardware
+Sensors · MQTT · data · tiny pieces of hardware
 
-<br>
+**04 — Hackathon things**
+AI, healthcare, agentic systems and whatever problem we're currently trying to solve.
+
+---
 
 ### learning in public
 
-`██████░░░░░░░░░░`
+`███████░░░░░░░░░░░`
 
-still figuring out what I'm good at.
+I'm still figuring out what I'm good at.
 
-<br>
+And that's kind of the point.
 
-✦ ✎ ⌁ ◌
+---
 
-[GitHub](https://github.com/sarangikiranofficial) · [Portfolio](#) · [LinkedIn](#)
+### a few things I like
+
+`building` · `doodling` · `experimenting` · `breaking code` · `fixing it`
+
+---
+
+<div align="center">
+
+✦
+
+**make something → break something → learn something**
+
+✦
+
+[GitHub](https://github.com/sarangikiranofficial) 
+
+</div>
+
